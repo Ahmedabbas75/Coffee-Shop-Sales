@@ -76,21 +76,23 @@ ________________________________________________________________________________
     - Bakery, Drinking Chocolate, Flavours, Coffee beans, Loose Tea, Branded, Packaged Chocolate have counts ranging from **7890** to **180** units, in **descending order**
 ________________________________________________________________________________
 ➡️ `Stores VS Most transaction_qty`
+
 - **Astoria Store :**
     - The most frequent transaction quantity observed is **1**, with a count of **30,207** instances
     - The second most frequent transaction quantity is **2**, noted **20,392** times
-<p>&nbsp;</p>
+      
 - **Hell's Kitchen Store:**
     - The most frequent transaction quantity observed is **1**, noted **29,793** times
     - The second most frequent transaction quantity is **2**, observed **20,932** times
     - Additionally, there are **8** transactions with a quantity of **8**
-<p>&nbsp;</p>
+
 - **Lower Manhattan Store:**
     - The most frequent transaction quantity observed is **1**, recorded **27,159** times.
     - The second most frequent transaction quantity is **2**, seen **17,318** times.
     - There are occurrences of transaction quantities **3**, **4**, and **6**, but they are less frequent compared to quantities **1** and **2**
 
 ➡️ `# Stores VS Hour sales`
+
 - **Astoria Store :**
     - Peak hours are from **9 AM** to **10 AM**, and from **4 PM** to **5 PM**, with counts ranging between **5,083** and **5,291** during these periods
     - The least busy hours are from **7 AM** to **8 AM**, with counts ranging between **4,181** and **4,966**
