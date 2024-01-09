@@ -90,40 +90,42 @@ ________________________________________________________________________________
     - The most frequent transaction quantity observed is **1**, recorded **27,159** times.
     - The second most frequent transaction quantity is **2**, seen **17,318** times.
     - There are occurrences of transaction quantities **3**, **4**, and **6**, but they are less frequent compared to quantities **1** and **2**
-
+________________________________________________________________________________
 ➡️ `# Stores VS Hour sales`
 
 - **Astoria Store :**
     - Peak hours are from **9 AM** to **10 AM**, and from **4 PM** to **5 PM**, with counts ranging between **5,083** and **5,291** during these periods
     - The least busy hours are from **7 AM** to **8 AM**, with counts ranging between **4,181** and **4,966**
-<p>&nbsp;</p>
+
 - **Hell's Kitchen Store :**
     - Busiest hours are from **8 AM** to **10 AM**, with counts ranging between **6,767** and **6,909**
     - The least busy hours are from **6 AM** to **7 AM** and from **6 PM** to **8 PM**
-<p>&nbsp;</p>
+
 - **Lower Manhattan Store :**
     - Peak hours are from **9 AM** to **10 AM**, with a count of **6,297**, and from **2 PM** to **3 PM**, with a count of **3,051**
     - The least busy hours are from **7 PM** to **8 PM**, with counts dropping to **75** and **125**
-
+________________________________________________________________________________
 ➡️ `Category VS Total revenue`
+
 - **Top Revenue Product Types :**
    - **Barista Espresso** with a revenue of **91,406.20**
    - **Brewed Chai tea** with a revenue of **77,081.95**
    - **Hot chocolate** with a revenue of **72,416.00**
    - **Gourmet brewed coffee** with a revenue of **70,034.60**
    - **Brewed Black tea** with a revenue of **47,932.00**
-<p>&nbsp;</p>
+
 - **Lowest Revenue Product Types :**
    - **Organic Chocolate** with a revenue of **1,679.60**
    - **Green tea** with a revenue of **1,470.75**
    - **Green beans** with a revenue of **1,340.00**
-<p>&nbsp;</p>
+
 - **Other Observations :**
     - Various products contribute to revenue across different ranges, with a mix of beverages (like **teas, coffees**) and snacks (**biscotti, pastries**).
     - **Coffee-related products**, such as various brews and espresso variants, hold prominent positions in revenue generation.
     - The lowest revenue-generating products are predominantly related to **tea** and specific beverage variants.
-
+________________________________________________________________________________
 ➡️ `Month VS revenue`
+
   - **Jun**e had the highest total revenue, reaching **166,485.88**, making it the most profitable month.
     - **May** followed closely behind with a total revenue of **156,727.76**, indicating strong performance.
     - **Apri**l and **March** also performed well, generating revenues of **118,941.08** and **98,834.68**, respectively.
