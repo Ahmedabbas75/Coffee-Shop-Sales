@@ -58,6 +58,7 @@ ________________________________________________________________________________
      - In the `Tea` category, the best-selling item is *Brewed Chai tea*
   
 ### Bivariate Analysis & Visualizations 📊📉📈
+➡️ `Stores VS product categories`
 - **Astoria Store :** 
     - The highest selling product category is **Coffee** with a count of **20,025** units
     - Following Coffee, **Tea** stands as the second most popular category with a count of **16,260** units
