@@ -34,7 +34,7 @@ ________________________________________________________________________________
     - Which products are sold most and least often? Which drive the most revenue for the business?
 ________________________________________________________________________________
 ## 5- Conclusion
-_________________________
+
 ### Columns Insights📊📉📈
 - `Year`, Sales exclusively from 2023.
 - `Month`, Most sales within a six-month period 
@@ -56,4 +56,21 @@ _________________________
      - In the `Loose Tea` category, the best-selling item is *Chai tea*
      - In the `Packaged Chocolate` category, the best-selling item is *Drinking Chocolate*
      - In the `Tea` category, the best-selling item is *Brewed Chai tea*
+  
+### Bivariate Analysis & Visualizations 📊📉📈
+- **Astoria Store :** 
+    - The highest selling product category is **Coffee** with a count of **20,025** units
+    - Following Coffee, **Tea** stands as the second most popular category with a count of **16,260** units
+    - Other categories like Bakery, Drinking Chocolate, Flavours, Coffee beans, Loose Tea, Branded, and Packaged Chocolate have        varying counts, ranging from **7289** to **110** units, in **descending order**
+<p>&nbsp;</p>
 
+- **Hell's Kitchen Store :**
+    - Similar to Astoria, **Coffee** leads in sales, amounting to **20,187** units
+    - **Tea** follows closely as the second most popular category with **15,277** units
+    - Other categories, such as Bakery, Drinking Chocolate, Flavours, Coffee beans, Loose Tea, Packaged Chocolate, Branded, and Packaged Chocolate, have counts ranging from **7617** to **119** units  
+<p>&nbsp;</p>
+
+- **Lower Manhattan Store :**
+    - **Coffee** is again the top-selling category with **18,204** units
+    - **Tea** follows with **13,912** units
+    - Bakery, Drinking Chocolate, Flavours, Coffee beans, Loose Tea, Branded, Packaged Chocolate have counts ranging from **7890** to **180** units, in **descending order**
