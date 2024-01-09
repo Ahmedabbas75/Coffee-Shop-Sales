@@ -35,24 +35,24 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ## 5- Conclusion
 
-- **Year**, Sales exclusively from 2023.
-- **Month**, Most sales within a six-month period 
-- **Hour**, Most sales were from 8 am to 11 pm
-- **Transaction quantity**, Most sales were singles followed by 2 lots
-- **Stores**, The sales rates of the three stores were similar, with the most significant difference observed at the `Hell's Kitchen` store
-- **Unit price**, Price distribution is `positively skewed`, We understand from this that most Coffee have lower prices,while a few Coffee have higher prices
+- `Year`, Sales exclusively from 2023.
+- `Month`, Most sales within a six-month period 
+- `Hour`, Most sales were from 8 am to 11 pm
+- `Transaction quantity`, Most sales were singles followed by 2 lots
+- `Stores`, The sales rates of the three stores were similar, with the most significant difference observed at the `Hell's Kitchen` store
+- `Unit price`, Price distribution is `positively skewed`, We understand from this that most Coffee have lower prices,while a few Coffee have higher prices
 - **Category :**
      - it's evident that the three stores offer a wide range of services.
      - `Coffee` stands as the best-selling product.
      - `Tea` also exhibits a high sales rate.
 - **product type :**
-     - In the **Bakery** category, the most sold item is the **scone**
-     - In the **Branded** category, the best-selling item is **Housewares**
-     - In the **Coffee** category, the best-selling item is **Gourmet brewed coffee**
-     - In the **Coffee beans** category, the best-selling item is **Organic Beans**
-     - The **Drinking Chocolate** category solely offers **hot chocolate**
-     - **Regular syrup** are the top-selling items in the **Flavours** category
-     - In the **Loose Tea** category, the best-selling item is **Chai tea**
-     - In the **Packaged Chocolate** category, the best-selling item is **Drinking Chocolate**
-     - In the **Tea** category, the best-selling item is **Brewed Chai tea**
+     - In the `Bakery` category, the most sold item is the *scone*
+     - In the `Branded` category, the best-selling item is *Housewares*
+     - In the `Coffee` category, the best-selling item is *Gourmet brewed coffee*
+     - In the `Coffee beans` category, the best-selling item is *Organic Beans*
+     - The `Drinking Chocolate` category solely offers *hot chocolate*
+     - `Regular syrup` are the top-selling items in the *Flavours* category
+     - In the `Loose Tea` category, the best-selling item is *Chai tea*
+     - In the `Packaged Chocolate` category, the best-selling item is *Drinking Chocolate*
+     - In the `Tea` category, the best-selling item is *Brewed Chai tea*
 
