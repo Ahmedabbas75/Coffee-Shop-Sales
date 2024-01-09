@@ -18,3 +18,17 @@ ____________________________________________________________________________
 - `product_category` : Description of the product category
 - `product_type` : Description of the product type
 - `product_detail` : Description of the product detail
+_________________________________________________________________________________
+## 4- In Mind Questions
+- **General Questions related to the existence of**
+  - missing values?
+  - wrong datatypes for columns?
+  - complete duplicates in the data?
+  - outliers in each column?
+  
+- ** Recommended Analysis**
+    - How have Maven Roasters sales trended over time?
+
+    - Which days of the week tend to be busiest, and why do you think that's the case?
+
+    - Which products are sold most and least often? Which drive the most revenue for the business?
