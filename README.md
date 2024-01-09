@@ -1,2 +1,4 @@
-# Coffee-Shop-Sales
-Transaction records for Maven Roasters, a coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.
+## 1- Dashboard :
+  <p float="left">
+  <img src='resources/image.png'/>
+</p>
