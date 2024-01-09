@@ -34,7 +34,8 @@ ________________________________________________________________________________
     - Which products are sold most and least often? Which drive the most revenue for the business?
 ________________________________________________________________________________
 ## 5- Conclusion
-
+_________________________
+### Columns Insights📊📉📈
 - `Year`, Sales exclusively from 2023.
 - `Month`, Most sales within a six-month period 
 - `Hour`, Most sales were from 8 am to 11 pm
