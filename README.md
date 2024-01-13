@@ -26,7 +26,7 @@ ________________________________________________________________________________
   - complete duplicates in the data?
   - outliers in each column?
   
-- ** Recommended Analysis**
+- **Recommended Analysis**
     - How have Maven Roasters sales trended over time?
 
     - Which days of the week tend to be busiest, and why do you think that's the case?
